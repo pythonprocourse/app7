@@ -1,5 +1,5 @@
 # What are these files?
-These are the files of a Python program (a.k.a. App 1) built in the Udemy course  "The Complete Python Course in the Professional OOP Approach."
+These are the files of a Python program (a.k.a. App 7) built in the Udemy course  "The Complete Python Course in the Professional OOP Approach."
 The course covers how to make this program step by step, plus nine other Python programs. 
 If you want to learn Python, you can take the course for a high discount in the link below: 
 https://www.udemy.com/course/the-python-pro-course/?referralCode=D1224FDF916B73D7E740
